@@ -1,0 +1,22 @@
+.body {
+  background-color: bisque;
+  cursor:
+    url("/assets/olive_cursor.png") 16 16,
+    auto;
+  box-sizing: content-box;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.navigation {
+  box-sizing: content-box; width 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.hello {
+  color: black;
+  font-size: 100px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 10rem;
+}
